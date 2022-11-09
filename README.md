@@ -1,5 +1,4 @@
 # Kodluyoruz Repom
-[www.patika.dev](https://www.patika.dev/tr)
 [Kodluyoruz]() Eğitimi kapsamında açtığım ilk olmayan fakat anlamlı olan repom.
 
 ![resim](images/github.png)
